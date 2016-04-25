@@ -1,0 +1,6 @@
+Akka.Fsharp
+Akka.Serialization.Wire
+Akka.TestKit
+Akka.TestKit.Xunit2
+XUnit
+XUnit.Runners
