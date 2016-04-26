@@ -5,3 +5,4 @@ nuget Akka.Serialization.Wire
 nuget Akka.TestKit.Xunit2
 nuget SSH.NET
 nuget XUnit.Runners
+nuget FsCheck.Xunit

@@ -4,3 +4,5 @@ Akka.TestKit
 Akka.TestKit.Xunit2
 XUnit
 XUnit.Runners
+FsCheck
+FsCheck.Xunit

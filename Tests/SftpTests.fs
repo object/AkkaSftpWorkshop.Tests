@@ -7,7 +7,7 @@
     open FakeSftpClient
 
     [<Fact>]
-    let ``Successful upload should generate Completed event`` () = testDefault <| fun tck -> 
+    let ``Single file upload should generate Completed event`` () = testDefault <| fun tck -> 
 
         let clientFactory = FakeClientFactory()
         let system = System.create "system" <| Configuration.load ()
